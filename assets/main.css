@@ -1,0 +1,24 @@
+	#text {
+	  z-index: 500;
+	  position: absolute;
+	  width: 300px;
+	  top: 100px;
+	  left: 25px;
+		bottom: 50px;
+	  padding: 15px 15px 500px 15px;
+	  border-radius: 10px;
+	  background: #dedede;
+	  color: black;
+	  opacity: 0.8;
+		font-family: arial, sans-serif;
+	}
+
+	#title {
+	  font-size: 24px;
+	  text-align: center;
+	}
+	#credit {
+		font-size: 12px;
+		font-style: italic;
+		text-align: center;
+	}
