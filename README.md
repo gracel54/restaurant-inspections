@@ -5,6 +5,6 @@ For this project, I found data on the King County GIS Open Data website surround
 The web map was created using HTML, CSS, QGIS, Mapbox, and the Leaflet library. The basemap was created using Mapbox, and the data was loaded into QGIS to create the tilesets using the QMetaTiles plugin. HTML and Leaflet were then used to make this an webmap with a zoom control and interactive panel. Users can click a box on the panel to load the locations of restaurants around Seattle with the chosen rating.
 The webpage can be found [here.](https://gracel54.github.io/restaurant-inspections/)
 
-Thank you to Bo Zhao for providing the skeleton code to make this possible, as well as Tyler McCrea for being a great teaching assistant.
+Thank you to Bo Zhao and Tyler McCrea for teaching the course and creating the lesson plan to make this project possible.
 
 ![Image of Webpage](/assets/webpageimg.png)
